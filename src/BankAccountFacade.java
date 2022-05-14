@@ -50,7 +50,7 @@ public class BankAccountFacade {
 		   securityCodeCheck.isSecurityCodeCorrect(securityCode)) {
 					System.out.println("Balance:" + fundscheck.getCashInAccount());
 				} else {
-					System.out.println("Transaction Fail");
+					System.out.println("Transaction Fail.");
 				}
 		}
 }
