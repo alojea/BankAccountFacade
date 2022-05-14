@@ -1,2 +1,2 @@
 # BankAccountFacade
-Facade Pattern for Bank Account
+Facade Pattern for Bank Account program
